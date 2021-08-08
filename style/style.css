@@ -232,6 +232,10 @@ body {
   cursor: pointer;
 }
 
+.download-button{
+  margin: 15%;
+}
+
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
